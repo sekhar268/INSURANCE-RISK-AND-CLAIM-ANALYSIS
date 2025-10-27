@@ -1,0 +1,43 @@
+🧾 Project Title:
+Insurance Risk & Claim Analysis Dashboard
+
+🎯 Objective:
+This project aims to study insurance claim data and find out which factors — like car type, brand, driver’s age, 
+education, and area — affect the total claim amount the most. It helps insurance companies understand customer 
+behavior, manage risks, and make better policy and pricing decisions.
+
+
+📊 Dashboard Summary:
+Total Policies: 37,542
+Total Claim Amount: $187.8M
+Average Claim Amount: $5,000
+Average Claim Frequency: 0.5
+Gender Split: 18.7K males and 18.8K females (almost equal)
+
+
+🔹 Main Insights:
+Car Use: Private cars have the highest claim amount ($150.4M).
+Car Brand: Ford and Chevrolet have the most claims.
+Age Group: People aged 36–65 make the highest total claims.
+Coverage Zone: All areas (urban, rural, suburban) show similar claim amounts.
+Education: Bachelor’s degree holders contribute to half of the total claims.
+Marital Status: Single people have higher claim amounts than married ones.
+Car Year: Cars made between 2000–2015 have higher claims.
+Kids Driving: Families with no kids driving show the highest total claims.
+
+
+⚙️ Tools Used:
+Tool: Power BI
+Techniques: Data Cleaning, DAX formulas, Data Visualization
+Charts Used: Bar chart, Pie chart, Donut chart, Line chart, and Matrix
+
+
+💡 Conclusion:
+This dashboard helps insurance companies quickly see which types of customers and cars lead to more claims. 
+It supports better decision-making for setting premiums, managing risks, and improving business strategies.
+
+
+
+link of dashboard view:
+https://app.powerbi.com/groups/me/reports/8f68dff8-b100-49e6-8a5a-1844632ea0c6/7b0f1f3566718edbfcbc?experience=power-bi
+
